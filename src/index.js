@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import App from "./components/App";
 
 ReactDOM.render(<App />, document.getElementById("root"));
-
+//lol
 //CHALLENGE:
 //1. Implement the add note functionality.
 //- Create a constant that keeps track of the title and content.
